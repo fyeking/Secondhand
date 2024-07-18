@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">飞马</string>
+    <string name="title_home">飞马</string>
+    <string name="title_add">卖闲置</string>
+    <string name="title_personalCenter">我的</string>
+    <string name="app_login">登录</string>
+    <string name="app_register">注册</string>
+</resources>
